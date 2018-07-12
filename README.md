@@ -102,17 +102,9 @@ Even with the best intentions, there may be trouble and I might not be available
 
 [![J. Rosenbaum at DEVOXXUK 2018](/photos/5F252068-8A57-44B9-9ED9-2AD6D7ECEE34.jpeg)](/photos/5F252068-8A57-44B9-9ED9-2AD6D7ECEE34.jpeg) 
 [![J. Rosenbaum at DEVOXXUK 2018](https://github.com/minxdragon/presenter-terms/blob/master/photos/67B4C681-8071-4264-83F2-DB113801C97B.jpeg)](https://github.com/minxdragon/presenter-terms/blob/master/photos/67B4C681-8071-4264-83F2-DB113801C97B.jpeg) 
-[![J. Rosenbaum at DEVOXXUK 2018](https://github.com/minxdragon/presenter-terms/blob/master/photos/79FDE7D8-E449-4ECD-BF7D-B8669A25D625.jpeg)](https://github.com/minxdragon/presenter-terms/blob/master/photos/79FDE7D8-E449-4ECD-BF7D-B8669A25D625.jpeg) 
-[![J. Rosenbaum](https://github.com/minxdragon/presenter-terms/blob/master/photos/CF87BCF6-13FA-4251-B6D0-D188B7AA76DA.jpeg)](https://github.com/minxdragon/presenter-terms/blob/master/photos/CF87BCF6-13FA-4251-B6D0-D188B7AA76DA.jpeg)
-[![J. Rosenbaum](https://github.com/minxdragon/presenter-terms/blob/master/photos/F7250E08-6C8A-44A1-9081-C949E1BE2F40.png)](https://github.com/minxdragon/presenter-terms/blob/master/photos/F7250E08-6C8A-44A1-9081-C949E1BE2F40.png)
-
+[![J. Rosenbaum Headshot](https://github.com/minxdragon/presenter-terms/blob/master/photos/79FDE7D8-E449-4ECD-BF7D-B8669A25D625.jpeg)](https://github.com/minxdragon/presenter-terms/blob/master/photos/79FDE7D8-E449-4ECD-BF7D-B8669A25D625.jpeg) 
+[![J. Rosenbaum at Buzzconf 2017](https://github.com/minxdragon/presenter-terms/blob/master/photos/CF87BCF6-13FA-4251-B6D0-D188B7AA76DA.jpeg)](https://github.com/minxdragon/presenter-terms/blob/master/photos/CF87BCF6-13FA-4251-B6D0-D188B7AA76DA.jpeg)
 
 ## :copyright: Photo licenses and information:
 
-* Tie and Internet photo: https://www.flickr.com/photos/stiftelsen/31116017256/
-* Dotted shirt and headset: https://www.flickr.com/photos/marcthiele/31398799070/ 
-* Black shirt and clicker: https://www.flickr.com/photos/124087764@N06/25684379484/ 
-* White shirt open gesture: https://www.flickr.com/photos/tedxthess/14306326115/in/photostream/
-* White shirt thumbs: https://www.flickr.com/photos/tedxthess/14304426622 
-* Mozilla shirt smile: https://www.flickr.com/photos/hasgeek/9928238174/ 
-* Black polo: https://www.flickr.com/photos/szene/8900138988/ 
+* DevoxxUK Photos  - https://www.flickr.com/photos/125714253@N02/page11
