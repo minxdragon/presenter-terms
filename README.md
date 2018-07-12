@@ -103,7 +103,6 @@ Even with the best intentions, there may be trouble and I might not be available
 [![J. Rosenbaum at DEVOXXUK 2018](/photos/5F252068-8A57-44B9-9ED9-2AD6D7ECEE34.jpeg)](/photos/5F252068-8A57-44B9-9ED9-2AD6D7ECEE34.jpeg) 
 [![J. Rosenbaum at DEVOXXUK 2018](https://github.com/minxdragon/presenter-terms/blob/master/photos/67B4C681-8071-4264-83F2-DB113801C97B.jpeg)](https://github.com/minxdragon/presenter-terms/blob/master/photos/67B4C681-8071-4264-83F2-DB113801C97B.jpeg) 
 [![J. Rosenbaum at DEVOXXUK 2018](https://github.com/minxdragon/presenter-terms/blob/master/photos/79FDE7D8-E449-4ECD-BF7D-B8669A25D625.jpeg)](https://github.com/minxdragon/presenter-terms/blob/master/photos/79FDE7D8-E449-4ECD-BF7D-B8669A25D625.jpeg) 
-[![J. Rosenbaum at DEVOXXUK 2018](https://github.com/minxdragon/presenter-terms/blob/master/photos/CF232C67-4619-47A1-8BFF-8556D7465D98.jpeg)](https://github.com/minxdragon/presenter-terms/blob/master/photos/CF232C67-4619-47A1-8BFF-8556D7465D98.jpeg)
 [![J. Rosenbaum](https://github.com/minxdragon/presenter-terms/blob/master/photos/CF87BCF6-13FA-4251-B6D0-D188B7AA76DA.jpeg)](https://github.com/minxdragon/presenter-terms/blob/master/photos/CF87BCF6-13FA-4251-B6D0-D188B7AA76DA.jpeg)
 [![J. Rosenbaum](https://github.com/minxdragon/presenter-terms/blob/master/photos/F7250E08-6C8A-44A1-9081-C949E1BE2F40.png)](https://github.com/minxdragon/presenter-terms/blob/master/photos/F7250E08-6C8A-44A1-9081-C949E1BE2F40.png)
 
